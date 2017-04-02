@@ -28,8 +28,8 @@
 
 - Python 3.5+
 - Pandoc
-- `pip`
-- Internet
+
+> *Optionally Docker (for exporting to PDF)
 
 ## USAGE
 
@@ -40,6 +40,30 @@ pip install markdownreveal
 # Run
 markdownreveal presentation.md
 ```
+
+## EQUATIONS TOO!
+
+$$
+f(x) = \int_{-\infty}^\infty h(\xi)\,e^{2 \pi i \xi x} \,d\xi
+$$
+
+Also inline $c = \sqrt{a^2 + b^2}$...
+
+## SUBCOMMANDS
+
+- Upload to GitHub pages
+- Generate PDF
+- Create a ZIP file
+
+```bash
+markdownreveal --help
+```
+
+## CUSTOM STYLES
+
+- YAML files
+- Create your own style repository!
+- Corporate look
 
 ## MORE!
 
