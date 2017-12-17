@@ -3,35 +3,35 @@
 % 2017-12-17
 
 
-# MAKE PRESENTATIONS WITH JOY!
+# Make presentations with joy!
 
-## TIRED?
+## Tired?
 
 ![](./video/out.ogv){width=80% height=400}
 
-## MARKDOWNREVEAL
+## Markdownreveal
 
 ![](./figures/logo.svg){width=20%}
 
 [https://github.com/markdownreveal/markdownreveal](https://github.com/markdownreveal/markdownreveal)
 
-## TESTIMONIALS
+## Testimonials
 
 > **I used to cry when I had to open my office suite... Now I don't cry anymore!**
 >
 > — *Mx. Trustworthy*
 
 
-# HOW DO I START?
+# How do I start?
 
-## REQUIREMENTS
+## Requirements
 
 - Python 3.5+
 - Pandoc
 
 > *Optionally Docker (for exporting to PDF)
 
-## USAGE
+## Usage
 
 ```bash
 # Install
@@ -44,7 +44,7 @@ markdownreveal presentation.md
 mdr presentation.md
 ```
 
-## EQUATIONS TOO!
+## Equations too!
 
 $$
 f(x) = \int_{-\infty}^\infty h(\xi)\,e^{2 \pi i \xi x} \,d\xi
@@ -52,11 +52,11 @@ $$
 
 Also inline $c = \sqrt{a^2 + b^2}$...
 
-## AND EMOJIS! :smile:
+## And emojis! :smile:
 
 Markdownreveal... :heart_eyes:
 
-## SUBCOMMANDS
+## Subcommands
 
 - Upload to GitHub pages
 - Generate PDF
@@ -66,13 +66,13 @@ Markdownreveal... :heart_eyes:
 markdownreveal --help
 ```
 
-## CUSTOM STYLES
+## Custom styles
 
 - YAML files
 - Create your own style repository!
 - Corporate look
 
-## MORE!
+## More!
 
 - [Official documentation](https://markdownreveal.readthedocs.org)
 - [Source code repository](https://github.com/markdownreveal/markdownreveal)
