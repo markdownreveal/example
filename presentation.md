@@ -1,6 +1,6 @@
 % Simple presentations with Markdownreveal
 % Miguel Sánchez de León Peque
-% 2017-03-25
+% 2017-12-17
 
 
 # MAKE PRESENTATIONS WITH JOY!
@@ -39,6 +39,9 @@ pip install markdownreveal
 
 # Run
 markdownreveal presentation.md
+
+# Run (shorter)
+mdr presentation.md
 ```
 
 ## EQUATIONS TOO!
@@ -48,6 +51,10 @@ f(x) = \int_{-\infty}^\infty h(\xi)\,e^{2 \pi i \xi x} \,d\xi
 $$
 
 Also inline $c = \sqrt{a^2 + b^2}$...
+
+## AND EMOJIS! :smile:
+
+Markdownreveal... :heart_eyes:
 
 ## SUBCOMMANDS
 
