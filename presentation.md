@@ -29,7 +29,7 @@
 - Python 3.5+
 - Pandoc
 
-> *Optionally Docker (for exporting to PDF)
+> *Optionally Decktape (for exporting to PDF)
 
 ## Usage
 
